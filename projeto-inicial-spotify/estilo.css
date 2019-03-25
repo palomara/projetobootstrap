@@ -1,0 +1,19 @@
+/* 
+*
+*@author Paloma Rangel
+*@version 0.1
+*/
+/* ========== LAYOUT ========== */
+/* -- Barra de Navegação -- */
+.img-logo {
+	height: 40px;
+	width: 132px;
+	background: url('imagens/spotify.svg') no-repeat;
+	display: block;
+	background-size: contain;
+	color: transparent;
+}
+
+nav .navbar-transparent {
+	background: red;
+}
